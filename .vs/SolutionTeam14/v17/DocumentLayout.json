@@ -58,15 +58,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Bookmark",
@@ -103,8 +99,7 @@
               "RelativeToolTip": "MauiAppTeam14\\SerieDetails.xaml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-01T08:17:40.791Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T08:17:40.791Z"
             },
             {
               "$type": "Document",
@@ -116,8 +111,7 @@
               "RelativeToolTip": "MauiAppTeam14\\ViewModels\\SeriesViewModel.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAuwCoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T07:49:22.05Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T07:49:22.05Z"
             },
             {
               "$type": "Document",
@@ -129,8 +123,7 @@
               "RelativeToolTip": "MauiAppTeam14\\SeriesPage.xaml",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-01T07:49:29.653Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T07:49:29.653Z"
             },
             {
               "$type": "Document",
@@ -142,8 +135,7 @@
               "RelativeToolTip": "MauiAppTeam14\\SeriesPage.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T18:32:42.401Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-30T18:32:42.401Z"
             },
             {
               "$type": "Document",
@@ -155,8 +147,7 @@
               "RelativeToolTip": "WebApiTeam14\\Controllers\\SerieController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAACqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T17:05:45.785Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-30T17:05:45.785Z"
             },
             {
               "$type": "Document",
@@ -168,8 +159,7 @@
               "RelativeToolTip": "ClassLibTeam14\\Data\\Framework\\SqlServer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T09:04:48.113Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-30T09:04:48.113Z"
             },
             {
               "$type": "Document",
@@ -181,8 +171,7 @@
               "RelativeToolTip": "ClassLibTeam14\\Business\\Series.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAUwCQAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T08:24:52.447Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-30T08:24:52.447Z"
             },
             {
               "$type": "Document",
@@ -194,8 +183,7 @@
               "RelativeToolTip": "ClassLibTeam14\\Business\\Entities\\Serie.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAzwCMAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T17:01:21.885Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-30T17:01:21.885Z"
             },
             {
               "$type": "Document",
@@ -207,8 +195,7 @@
               "RelativeToolTip": "ClassLibTeam14\\Data\\SerieData.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAABrAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T09:00:57.177Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-30T09:00:57.177Z"
             },
             {
               "$type": "Document",
