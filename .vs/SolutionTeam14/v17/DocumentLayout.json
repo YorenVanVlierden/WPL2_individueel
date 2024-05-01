@@ -1,0 +1,242 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yoren\\Desktop\\CSharp_Advanced\\SolutionTeam14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91A2C286-41DA-4DFE-A6BA-558BDAB927FB}|MauiAppTeam14\\MauiAppTeam14.csproj|c:\\users\\yoren\\desktop\\csharp_advanced\\solutionteam14\\mauiappteam14\\seriedetails.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91A2C286-41DA-4DFE-A6BA-558BDAB927FB}|MauiAppTeam14\\MauiAppTeam14.csproj|solutionrelative:mauiappteam14\\seriedetails.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A2C286-41DA-4DFE-A6BA-558BDAB927FB}|MauiAppTeam14\\MauiAppTeam14.csproj|c:\\users\\yoren\\desktop\\csharp_advanced\\solutionteam14\\mauiappteam14\\seriedetails.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{91A2C286-41DA-4DFE-A6BA-558BDAB927FB}|MauiAppTeam14\\MauiAppTeam14.csproj|solutionrelative:mauiappteam14\\seriedetails.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A2C286-41DA-4DFE-A6BA-558BDAB927FB}|MauiAppTeam14\\MauiAppTeam14.csproj|c:\\users\\yoren\\desktop\\csharp_advanced\\solutionteam14\\mauiappteam14\\seriespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{91A2C286-41DA-4DFE-A6BA-558BDAB927FB}|MauiAppTeam14\\MauiAppTeam14.csproj|solutionrelative:mauiappteam14\\seriespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A2C286-41DA-4DFE-A6BA-558BDAB927FB}|MauiAppTeam14\\MauiAppTeam14.csproj|c:\\users\\yoren\\desktop\\csharp_advanced\\solutionteam14\\mauiappteam14\\viewmodels\\seriesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91A2C286-41DA-4DFE-A6BA-558BDAB927FB}|MauiAppTeam14\\MauiAppTeam14.csproj|solutionrelative:mauiappteam14\\viewmodels\\seriesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A2C286-41DA-4DFE-A6BA-558BDAB927FB}|MauiAppTeam14\\MauiAppTeam14.csproj|c:\\users\\yoren\\desktop\\csharp_advanced\\solutionteam14\\mauiappteam14\\seriespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91A2C286-41DA-4DFE-A6BA-558BDAB927FB}|MauiAppTeam14\\MauiAppTeam14.csproj|solutionrelative:mauiappteam14\\seriespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA27F69-B2BE-45D5-9953-90C0FAE5760D}|WebApiTeam14\\WebApiTeam14.csproj|c:\\users\\yoren\\desktop\\csharp_advanced\\solutionteam14\\webapiteam14\\controllers\\seriecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA27F69-B2BE-45D5-9953-90C0FAE5760D}|WebApiTeam14\\WebApiTeam14.csproj|solutionrelative:webapiteam14\\controllers\\seriecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{814C649C-EE39-449E-AF87-649F840F34E7}|ClassLibTeam14\\ClassLibTeam14.csproj|C:\\Users\\yoren\\Desktop\\CSharp_Advanced\\SolutionTeam14\\classlibteam14\\data\\seriedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{814C649C-EE39-449E-AF87-649F840F34E7}|ClassLibTeam14\\ClassLibTeam14.csproj|solutionrelative:classlibteam14\\data\\seriedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{814C649C-EE39-449E-AF87-649F840F34E7}|ClassLibTeam14\\ClassLibTeam14.csproj|C:\\Users\\yoren\\Desktop\\CSharp_Advanced\\SolutionTeam14\\classlibteam14\\data\\framework\\sqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{814C649C-EE39-449E-AF87-649F840F34E7}|ClassLibTeam14\\ClassLibTeam14.csproj|solutionrelative:classlibteam14\\data\\framework\\sqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{814C649C-EE39-449E-AF87-649F840F34E7}|ClassLibTeam14\\ClassLibTeam14.csproj|C:\\Users\\yoren\\Desktop\\CSharp_Advanced\\SolutionTeam14\\classlibteam14\\business\\series.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{814C649C-EE39-449E-AF87-649F840F34E7}|ClassLibTeam14\\ClassLibTeam14.csproj|solutionrelative:classlibteam14\\business\\series.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{814C649C-EE39-449E-AF87-649F840F34E7}|ClassLibTeam14\\ClassLibTeam14.csproj|C:\\Users\\yoren\\Desktop\\CSharp_Advanced\\SolutionTeam14\\classlibteam14\\business\\entities\\serie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{814C649C-EE39-449E-AF87-649F840F34E7}|ClassLibTeam14\\ClassLibTeam14.csproj|solutionrelative:classlibteam14\\business\\entities\\serie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A2C286-41DA-4DFE-A6BA-558BDAB927FB}|MauiAppTeam14\\MauiAppTeam14.csproj|c:\\users\\yoren\\desktop\\csharp_advanced\\solutionteam14\\mauiappteam14\\mauiappteam14.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{91A2C286-41DA-4DFE-A6BA-558BDAB927FB}|MauiAppTeam14\\MauiAppTeam14.csproj|solutionrelative:mauiappteam14\\mauiappteam14.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{814C649C-EE39-449E-AF87-649F840F34E7}|ClassLibTeam14\\ClassLibTeam14.csproj|C:\\Users\\yoren\\Desktop\\CSharp_Advanced\\SolutionTeam14\\classlibteam14\\data\\framework\\insertresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{814C649C-EE39-449E-AF87-649F840F34E7}|ClassLibTeam14\\ClassLibTeam14.csproj|solutionrelative:classlibteam14\\data\\framework\\insertresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cf577b8c-4134-11d2-83e5-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SerieDetails.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\yoren\\Desktop\\CSharp_Advanced\\SolutionTeam14\\MauiAppTeam14\\SerieDetails.xaml.cs",
+              "RelativeDocumentMoniker": "MauiAppTeam14\\SerieDetails.xaml.cs",
+              "ToolTip": "C:\\Users\\yoren\\Desktop\\CSharp_Advanced\\SolutionTeam14\\MauiAppTeam14\\SerieDetails.xaml.cs",
+              "RelativeToolTip": "MauiAppTeam14\\SerieDetails.xaml.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAtwC8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T08:17:50.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SerieDetails.xaml",
+              "DocumentMoniker": "C:\\Users\\yoren\\Desktop\\CSharp_Advanced\\SolutionTeam14\\MauiAppTeam14\\SerieDetails.xaml",
+              "RelativeDocumentMoniker": "MauiAppTeam14\\SerieDetails.xaml",
+              "ToolTip": "C:\\Users\\yoren\\Desktop\\CSharp_Advanced\\SolutionTeam14\\MauiAppTeam14\\SerieDetails.xaml",
+              "RelativeToolTip": "MauiAppTeam14\\SerieDetails.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-01T08:17:40.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SeriesViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\yoren\\Desktop\\CSharp_Advanced\\SolutionTeam14\\MauiAppTeam14\\ViewModels\\SeriesViewModel.cs",
+              "RelativeDocumentMoniker": "MauiAppTeam14\\ViewModels\\SeriesViewModel.cs",
+              "ToolTip": "C:\\Users\\yoren\\Desktop\\CSharp_Advanced\\SolutionTeam14\\MauiAppTeam14\\ViewModels\\SeriesViewModel.cs",
+              "RelativeToolTip": "MauiAppTeam14\\ViewModels\\SeriesViewModel.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAuwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T07:49:22.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SeriesPage.xaml",
+              "DocumentMoniker": "C:\\Users\\yoren\\Desktop\\CSharp_Advanced\\SolutionTeam14\\MauiAppTeam14\\SeriesPage.xaml",
+              "RelativeDocumentMoniker": "MauiAppTeam14\\SeriesPage.xaml",
+              "ToolTip": "C:\\Users\\yoren\\Desktop\\CSharp_Advanced\\SolutionTeam14\\MauiAppTeam14\\SeriesPage.xaml",
+              "RelativeToolTip": "MauiAppTeam14\\SeriesPage.xaml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-01T07:49:29.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SeriesPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\yoren\\Desktop\\CSharp_Advanced\\SolutionTeam14\\MauiAppTeam14\\SeriesPage.xaml.cs",
+              "RelativeDocumentMoniker": "MauiAppTeam14\\SeriesPage.xaml.cs",
+              "ToolTip": "C:\\Users\\yoren\\Desktop\\CSharp_Advanced\\SolutionTeam14\\MauiAppTeam14\\SeriesPage.xaml.cs",
+              "RelativeToolTip": "MauiAppTeam14\\SeriesPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T18:32:42.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SerieController.cs",
+              "DocumentMoniker": "C:\\Users\\yoren\\Desktop\\CSharp_Advanced\\SolutionTeam14\\WebApiTeam14\\Controllers\\SerieController.cs",
+              "RelativeDocumentMoniker": "WebApiTeam14\\Controllers\\SerieController.cs",
+              "ToolTip": "C:\\Users\\yoren\\Desktop\\CSharp_Advanced\\SolutionTeam14\\WebApiTeam14\\Controllers\\SerieController.cs",
+              "RelativeToolTip": "WebApiTeam14\\Controllers\\SerieController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAACqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T17:05:45.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SqlServer.cs",
+              "DocumentMoniker": "C:\\Users\\yoren\\Desktop\\CSharp_Advanced\\SolutionTeam14\\ClassLibTeam14\\Data\\Framework\\SqlServer.cs",
+              "RelativeDocumentMoniker": "ClassLibTeam14\\Data\\Framework\\SqlServer.cs",
+              "ToolTip": "C:\\Users\\yoren\\Desktop\\CSharp_Advanced\\SolutionTeam14\\ClassLibTeam14\\Data\\Framework\\SqlServer.cs",
+              "RelativeToolTip": "ClassLibTeam14\\Data\\Framework\\SqlServer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T09:04:48.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Series.cs",
+              "DocumentMoniker": "C:\\Users\\yoren\\Desktop\\CSharp_Advanced\\SolutionTeam14\\ClassLibTeam14\\Business\\Series.cs",
+              "RelativeDocumentMoniker": "ClassLibTeam14\\Business\\Series.cs",
+              "ToolTip": "C:\\Users\\yoren\\Desktop\\CSharp_Advanced\\SolutionTeam14\\ClassLibTeam14\\Business\\Series.cs",
+              "RelativeToolTip": "ClassLibTeam14\\Business\\Series.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAUwCQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T08:24:52.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Serie.cs",
+              "DocumentMoniker": "C:\\Users\\yoren\\Desktop\\CSharp_Advanced\\SolutionTeam14\\ClassLibTeam14\\Business\\Entities\\Serie.cs",
+              "RelativeDocumentMoniker": "ClassLibTeam14\\Business\\Entities\\Serie.cs",
+              "ToolTip": "C:\\Users\\yoren\\Desktop\\CSharp_Advanced\\SolutionTeam14\\ClassLibTeam14\\Business\\Entities\\Serie.cs",
+              "RelativeToolTip": "ClassLibTeam14\\Business\\Entities\\Serie.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwCMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T17:01:21.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SerieData.cs",
+              "DocumentMoniker": "C:\\Users\\yoren\\Desktop\\CSharp_Advanced\\SolutionTeam14\\ClassLibTeam14\\Data\\SerieData.cs",
+              "RelativeDocumentMoniker": "ClassLibTeam14\\Data\\SerieData.cs",
+              "ToolTip": "C:\\Users\\yoren\\Desktop\\CSharp_Advanced\\SolutionTeam14\\ClassLibTeam14\\Data\\SerieData.cs",
+              "RelativeToolTip": "ClassLibTeam14\\Data\\SerieData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T09:00:57.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MauiAppTeam14.csproj",
+              "DocumentMoniker": "C:\\Users\\yoren\\Desktop\\CSharp_Advanced\\SolutionTeam14\\MauiAppTeam14\\MauiAppTeam14.csproj",
+              "RelativeDocumentMoniker": "MauiAppTeam14\\MauiAppTeam14.csproj",
+              "ToolTip": "C:\\Users\\yoren\\Desktop\\CSharp_Advanced\\SolutionTeam14\\MauiAppTeam14\\MauiAppTeam14.csproj",
+              "RelativeToolTip": "MauiAppTeam14\\MauiAppTeam14.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-30T18:12:52.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InsertResult.cs",
+              "DocumentMoniker": "C:\\Users\\yoren\\Desktop\\CSharp_Advanced\\SolutionTeam14\\ClassLibTeam14\\Data\\Framework\\InsertResult.cs",
+              "RelativeDocumentMoniker": "ClassLibTeam14\\Data\\Framework\\InsertResult.cs",
+              "ToolTip": "C:\\Users\\yoren\\Desktop\\CSharp_Advanced\\SolutionTeam14\\ClassLibTeam14\\Data\\Framework\\InsertResult.cs",
+              "RelativeToolTip": "ClassLibTeam14\\Data\\Framework\\InsertResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T11:57:26.859Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

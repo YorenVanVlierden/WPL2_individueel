@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiAppTeam14.SeriesPage"
+             Title="SeriesPage">
+
+    <!-- Use StackLayout to organize elements vertically -->
+    <StackLayout Orientation="Vertical" Padding="20">
+        <!-- Increased Padding -->
+
+        <!-- Button to load records -->
+        <Button Text="Load Records"
+                Clicked="OnLoadRecordsClicked"
+                Margin="0,0,0,20" />
+        <!-- Margin below the button -->
+
+        <!-- ListView to display records from the database -->
+        <ListView x:Name="SeriesListView"
+                  ItemsSource="{Binding Series}"
+                  HasUnevenRows="True"
+                  ItemTapped="SeriesListView_ItemTapped"
+                  Margin="0,0,0,10">
+            <!-- Margin below the ListView -->
+
+            <!-- Define the ItemTemplate for each item in the ListView -->
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <!-- Define layout for each item -->
+                        <StackLayout Orientation="Vertical" Padding="10" Spacing="10">
+                            <Image Source="{Binding ImagePath}"  Margin="0,0,0,10" />
+
+                            <Label Text="{Binding SerieTitle}"
+                                   FontAttributes="Bold"
+                                   FontSize="20"  
+                                   Margin="0,0,0,10" />
+
+                            <Label Text="{Binding SerieDescription}"
+                                   FontSize="14"
+                                   Margin="0,0,0,10" />
+                            
+                                <StackLayout Orientation="Horizontal" Spacing="5">
+                                    <Label Text="Genre: " FontAttributes="Italic" />
+                                    <Label Text="{Binding SerieGenre}" />
+                                </StackLayout>
+
+                                <StackLayout Orientation="Horizontal" Spacing="5">
+                                    <Label Text="Seasons: " FontAttributes="Italic" />
+                                    <Label Text="{Binding NumberOfSeasons}" />
+                                </StackLayout>
+                                
+                                <StackLayout Orientation="Horizontal" Spacing="5">
+                                    <Label Text="Episodes: " FontAttributes="Italic" />
+                                    <Label Text="{Binding EpisodeCount}" />
+                                </StackLayout>
+
+                                <StackLayout Orientation="Horizontal" Spacing="5">
+                                    <Label Text="IMDb Score: " FontAttributes="Italic" />
+                                    <Label Text="{Binding ImdbScore}" />
+                                </StackLayout>
+
+                                <StackLayout Orientation="Horizontal" Spacing="5">
+                                    <Label Text="Release Date: " FontAttributes="Italic" />
+                                <Label Text="{Binding ReleaseDate, StringFormat='{0:yyyy-MM-dd}'}" />
+                                </StackLayout>
+
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+
+        </ListView>
+
+    </StackLayout>
+
+</ContentPage>

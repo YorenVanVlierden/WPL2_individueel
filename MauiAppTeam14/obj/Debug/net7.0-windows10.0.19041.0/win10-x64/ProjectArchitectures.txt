@@ -1,0 +1,1 @@
+C:\Users\yoren\Desktop\CSharp_Advanced\SolutionTeam14\MauiAppTeam14\MauiAppTeam14.csproj;x64
